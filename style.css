@@ -1,0 +1,43 @@
+body {
+  font-family: sans-serif;
+}
+
+td.eerste ,th {
+  padding: 10px;
+  background-color: lightgrey;
+}
+
+
+
+td.H {
+  padding: 10px;
+  background-color: orange;
+  cursor: pointer;
+}
+
+td.Li ,td.Na, td.Na ,td.K ,td.Rb{
+  padding: 10px;
+  background-color: purple;
+  cursor: pointer;
+}
+
+td.Be ,td.Mg , td.Ca , td.Sr{
+  padding:10px;
+  background-color: blue;
+  cursor: pointer;
+}
+
+
+td.Sc, td.Y , td.Ti, td.V, td.Zr, td.Nb{
+  padding:10px;
+  background-color: green;
+  cursor: pointer;
+}
+
+td.H{
+  color: green
+}
+
+td.hover:hover {
+  background-color:yellow
+}
